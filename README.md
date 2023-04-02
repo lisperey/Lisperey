@@ -1,7 +1,7 @@
 ### Hi there! Me chamo Filipe 👋
 
 
-- 🔭 Hoje trabalho com Front-End
+- 🔭 Hoje trabalho como estagiario full stack
 - 🎓 Cursando Sistemas para Internet na UNIESP
 - 🌱 Estudando React e Spring Boot
 - 😄 Pronouns: ele/Dele
