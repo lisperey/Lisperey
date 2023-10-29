@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como estagiario full stack
 - 🎓 Cursando Sistemas para Internet na UNIESP
-- 🌱 Estudando React e Spring Boot
+- 🌱 Aprendendo Flutter e desenvolvendo um app para a grafica JB
 - 😄 Pronouns: ele/Dele
 
 
