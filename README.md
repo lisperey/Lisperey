@@ -1,7 +1,7 @@
 ### Hi there! Me chamo Filipe 👋
 
 
-- 🔭 Hoje trabalho como estagiario full stack
+- 🔭 Hoje trabalho como full stack JR
 - 🎓 Cursando Sistemas para Internet na UNIESP
 - 🌱 Aprendendo Flutter e desenvolvendo um app para a grafica JB
 - 😄 Pronouns: ele/Dele
